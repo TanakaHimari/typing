@@ -1,0 +1,21 @@
+# Unity関連
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio関連
+.vs/
+*.suo
+*.user
+*.csproj.user
+*.sln.docstates
+
+# OS・IDE関連
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
